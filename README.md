@@ -1,6 +1,6 @@
 # flutter_joke
 
-Projeto de joken po para aprendizado de Flutter
+Projeto de joken para aprendizado de Flutter
 
 ## Getting Started
 
